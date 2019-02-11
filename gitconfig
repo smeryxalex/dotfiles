@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = Alexander.klimaschka@gmail.com
+	email = alexander.klimaschka@gmail.com
 	name = Alexander Klimaschka
